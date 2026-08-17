@@ -8,6 +8,6 @@ Apresentação comercial criada pela Prosperta para o projeto do Restaurante Ber
 - Método de build: Dockerfile
 - Contexto: `.`
 - Dockerfile: `Dockerfile`
-- Porta interna: `80`
+- Porta interna: `3000`
 
 Não é necessário configurar comando de build ou inicialização.
